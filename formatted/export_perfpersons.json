@@ -1,0 +1,267 @@
+{
+  "http://rdfh.ch/0119/9RJn37QzS12P9_xIXO1F1A": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/9RJn37QzS12P9_xIXO1F1Am",
+    "label": "Pierre Viret - spectateur des Actes des Apôtres à Genève (1546)",
+    "person_id": [
+      "http://rdfh.ch/0119/mr8u3LSYStqBlePTgE_DPg"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/5X6st_rOTA-NYv9jeF9g8g": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/5X6st_rOTA=NYv9jeF9g8gm",
+    "label": "Jeanne III d'Albret - spectatrice de la représentation à La Rochelle (1558)",
+    "person_id": [
+      "http://rdfh.ch/0119/PObiVapfRga44CHjQx6yyw"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/NHr0eDhlTJSvSgD2ZX9b2A": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/NHr0eDhlTJSvSgD2ZX9b2Ax",
+    "label": "Antoine de Bourbon - spectateur de la représentation à La Rochelle (1558)",
+    "person_id": [
+      "http://rdfh.ch/0119/5R5I48bdQFSXDbcTwqicrw"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/Ro0cccg_RZWkRRqamsdqgQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/Ro0cccg_RZWkRRqamsdqgQU",
+    "label": "Georges de Saluces (évêque de Lausanne) - spectateur de la représentation à Lausanne (1461)",
+    "person_id": [
+      "http://rdfh.ch/0119/vxRdZPBWSVG_P6VKY09i1A"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/_9v1Z6GCRRuqx36lVNJhQw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/_9v1Z6GCRRuqx36lVNJhQwV",
+    "label": "Pierre de La Baume (évêque de Genève) - commanditaire de l'entrée à Genève (1523)",
+    "person_id": [
+      "http://rdfh.ch/0119/pLJ8XPlmTyS9GeyPod3VOA"
+    ],
+    "activity_id": [
+      "commanditaire"
+    ]
+  },
+  "http://rdfh.ch/0119/nQli6lRXTraMWUKejomFxw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/nQli6lRXTraMWUKejomFxwu",
+    "label": "Béatrice de Portugal (duchesse de Savoie) - spectatrice de la représentation du mystère (1523) ",
+    "person_id": [
+      "http://rdfh.ch/0119/hmoXj3EJSPSvq2a1YY7lKw"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/lAv14fzJS368HCOz4IlHYQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/lAv14fzJS368HCOz4IlHYQn",
+    "label": "Jean Piaget - metteur en scène de la Passion à Lausanne (1453)",
+    "person_id": [
+      "http://rdfh.ch/0119/9XybsaCeQGusg4JKkp-lGA"
+    ],
+    "activity_id": [
+      "metteur en scène"
+    ]
+  },
+  "http://rdfh.ch/0119/QYpIBvrlSkOKhkrOpcl8bg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/QYpIBvrlSkOKhkrOpcl8bg8",
+    "label": "Charles Ier (duc de Savoie) - spectateur du mystère de Robert le Diable à Genève (1482)",
+    "person_id": [
+      "http://rdfh.ch/0119/u7fW09UbScqQYzWb1fZgsg"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/75TqI3ECQwu1dznQQCFQ7A": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/75TqI3ECQwu1dznQQCFQ7AY",
+    "label": "Conseil de la ville de Lausanne - commanditaire de l'entrée (1440)",
+    "person_id": [
+      "http://rdfh.ch/0119/zqmflUdoTWuJ4zVzoLrnFA"
+    ],
+    "activity_id": [
+      "commanditaire"
+    ]
+  },
+  "http://rdfh.ch/0119/aTWndt7XQrmmF1WfhVKxKw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/aTWndt7XQrmmF1WfhVKxKwi",
+    "label": "Georges de Saluces (évêque de Lausanne) - organisateur de l'entrée (1440)",
+    "person_id": [
+      "http://rdfh.ch/0119/vxRdZPBWSVG_P6VKY09i1A"
+    ],
+    "activity_id": [
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/wlkZQoJkSUWDKc1sf7Wp-w": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/wlkZQoJkSUWDKc1sf7Wp=wv",
+    "label": "Amédée VIII de Savoie (pape Félix V) - spectateur de l'entrée (1440)",
+    "person_id": [
+      "http://rdfh.ch/0119/y5KzPxRLRrO5gpVpJbkh1A"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/YZGPtnJgTHS6StuiWTFMZw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/YZGPtnJgTHS6StuiWTFMZwD",
+    "label": "Louis Énoch - organisateur du spectacle de collège (1552)",
+    "person_id": [
+      "http://rdfh.ch/0119/RDZ93R-LRR2IRXNVddK_RQ"
+    ],
+    "activity_id": [
+      "auteur",
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/1LNI8kEHRlq8v4LhJSzRMg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/1LNI8kEHRlq8v4LhJSzRMgB",
+    "label": "Hugues Floret - organisateur de la représentation de l'histoire à Orbe (1467)",
+    "person_id": [
+      "http://rdfh.ch/0119/rvD5bXTWRlqpVEGaACLpog"
+    ],
+    "activity_id": [
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/Y0OkR6d0Q5myLokg5BvgVA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/Y0OkR6d0Q5myLokg5BvgVAG",
+    "label": "Érasme Cornier - organisateur du spectacle de collège (1549)",
+    "person_id": [
+      "http://rdfh.ch/0119/eG-Xg2RSQoah7bhMxFGNgg"
+    ],
+    "activity_id": [
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/TAiAyjPTQMu9oXBSx3nQTg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/TAiAyjPTQMu9oXBSx3nQTgI",
+    "label": "Jean Piaget - régisseur de la représentation à Lausanne (1438)",
+    "person_id": [
+      "http://rdfh.ch/0119/9XybsaCeQGusg4JKkp-lGA"
+    ],
+    "activity_id": [
+      "régisseur"
+    ]
+  },
+  "http://rdfh.ch/0119/oV8g3nA7S6qLq_k0BEZpsQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/oV8g3nA7S6qLq_k0BEZpsQ_",
+    "label": "Hugues Floret - organisateur de la représentation de la Passion à Orbe (1467)",
+    "person_id": [
+      "http://rdfh.ch/0119/rvD5bXTWRlqpVEGaACLpog"
+    ],
+    "activity_id": [
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/j6bO3BX2TnilZYmWdMi0uQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/j6bO3BX2TnilZYmWdMi0uQN",
+    "label": "Yolande de France (duchesse de Savoie) -  - spectatrice de la représentation à Chambéry (1470)",
+    "person_id": [
+      "http://rdfh.ch/0119/4lAKqUxIRryaL0MOIbjnPQ"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/9-LCui2dRLW6C6r5zu_Npw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/9=LCui2dRLW6C6r5zu_NpwX",
+    "label": "Amédée IX (duc de Savoie) - spectateur de la représentation à Chambéry (1470)",
+    "person_id": [
+      "http://rdfh.ch/0119/FKKHc5uJQKSX_FAtSfdGsQ"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/UPht36gaQXmDpIG_b9uvqg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/UPht36gaQXmDpIG_b9uvqg4",
+    "label": "Hugues Floret - organisateur de la représentation à Orbe en 1473",
+    "person_id": [
+      "http://rdfh.ch/0119/rvD5bXTWRlqpVEGaACLpog"
+    ],
+    "activity_id": [
+      "organisateur"
+    ]
+  },
+  "http://rdfh.ch/0119/cxCwbm3gRdGuzRnvHCb4-Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/cxCwbm3gRdGuzRnvHCb4=QN",
+    "label": "Blanche de Montferrat (duchesse de Savoie) - spectatrice de la moralité Miroir de Justice à Genève  (1485)",
+    "person_id": [
+      "http://rdfh.ch/0119/5QTwGrviQ3mdtyGb_sqLng"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/96bDowhFTAycMatG6nel4w": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/96bDowhFTAycMatG6nel4wH",
+    "label": "Charles Ier (duc de Savoie) - spectateur de la moralité Miroir de Justice à Genève  (1485)",
+    "person_id": [
+      "http://rdfh.ch/0119/u7fW09UbScqQYzWb1fZgsg"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/9ZxAH7W-TzmuXp_4s_aRuw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/9ZxAH7W=TzmuXp_4s_aRuww",
+    "label": "François de Savoie (évêque de Genève) - spectateur de la moralité Miroir de Justice à Genève (1485)",
+    "person_id": [
+      "http://rdfh.ch/0119/v8B9RLFOSYeCFT6ZFFSVtw"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/oyqWE0BwT3u8PU5sfi5eRg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/oyqWE0BwT3u8PU5sfi5eRgt",
+    "label": "Nicolas Rolet impliqué dans la représentation de la moralité Miroir de Justice à Genève (1485)",
+    "person_id": [
+      "http://rdfh.ch/0119/5cFcRIa3SU-IZfIGSz3CCg"
+    ],
+    "activity_id": [
+      "auteur",
+      "acteur",
+      "metteur en scène",
+      "chef de troupe",
+      "régisseur"
+    ]
+  },
+  "http://rdfh.ch/0119/NAwmtidhTQCNDoleRFwqQg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/NAwmtidhTQCNDoleRFwqQg3",
+    "label": "Antoine Houlard - joue le rôle du Christ dans la Passion à Orbe (1497)",
+    "person_id": [
+      "http://rdfh.ch/0119/l2zfSG_YRoqz9u395xkllg"
+    ],
+    "activity_id": [
+      "acteur"
+    ]
+  },
+  "http://rdfh.ch/0119/XpQlELXjQQmsnfd1ydqRDw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/XpQlELXjQQmsnfd1ydqRDwD",
+    "label": "Marie de Bourgogne (comtesse de Savoie) - spectatrice de la représentation à Lausanne (1406)",
+    "person_id": [
+      "http://rdfh.ch/0119/cE0zeBiiQISArRHs9VVYcg"
+    ],
+    "activity_id": [
+      "spectateur"
+    ]
+  },
+  "http://rdfh.ch/0119/ZINsjdGJRSSdtOWxCxGNVg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/ZINsjdGJRSSdtOWxCxGNVgo",
+    "label": "Conseil de la ville de Lausanne - commanditaire de la représentation (1406)",
+    "person_id": [
+      "http://rdfh.ch/0119/zqmflUdoTWuJ4zVzoLrnFA"
+    ],
+    "activity_id": [
+      "commanditaire"
+    ]
+  }
+}

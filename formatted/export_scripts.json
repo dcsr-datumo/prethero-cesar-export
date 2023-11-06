@@ -1,0 +1,256 @@
+{
+  "http://rdfh.ch/0119/mhMDYzUBQL6BRUFzwWOsDg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/mhMDYzUBQL6BRUFzwWOsDgj",
+    "title": "Actes des Apôtres (Genève)",
+    "language_id": "français"
+  },
+  "http://rdfh.ch/0119/SyJnaYSGQlGYsp_3z0-vFw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/SyJnaYSGQlGYsp_3z0=vFwO",
+    "title": "Jeu de Job (Yverdon)",
+    "qualifier_id": [
+      "mystère"
+    ]
+  },
+  "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw",
+    "title": "miracle de sainte Suzanne (Savoie)",
+    "language_id": "français",
+    "qualifier_id": [
+      "miracle"
+    ]
+  },
+  "http://rdfh.ch/0119/dgPCqVqCQp-r4SGOvrBn3w": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/dgPCqVqCQp=r4SGOvrBn3w1",
+    "title": "Mathieu Malingre, Moralité de la maladie de Chrétienté",
+    "language_id": "français",
+    "qualifier_id": [
+      "moralité"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/YRJgA5BcSI6iW_cmhvGW4A"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/BTCwdYu_QBGhVv8Kpf0opQ"
+    ]
+  },
+  "http://rdfh.ch/0119/1kI2i5VXQrO-gBEDO8pOEQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/1kI2i5VXQrO=gBEDO8pOEQf",
+    "title": "mystère de Lazare (Moudon)"
+  },
+  "http://rdfh.ch/0119/mfKNI6a8QEiU29LWPXlqCg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/mfKNI6a8QEiU29LWPXlqCg9",
+    "title": "Théodore de Bèze, Abraham sacrifiant",
+    "language_id": "français",
+    "qualifier_id": [
+      "tragédie"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/9xK5MuZbQam5h2z_B_pZHw"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/T9gzjq4hRzipefmEqKO_jg"
+    ]
+  },
+  "http://rdfh.ch/0119/YCbvsRLqSa-SUcJgzY8PeQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/YCbvsRLqSa=SUcJgzY8PeQk",
+    "title": "Histoire de l'Enfant prodigue (Vevey)"
+  },
+  "http://rdfh.ch/0119/cZIreD-bQbGlV81QUxsvsA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/cZIreD=bQbGlV81QUxsvsA2",
+    "title": "Jacques Bienvenu, Comédie du monde malade et mal pensé",
+    "language_id": "français",
+    "qualifier_id": [
+      "comédie"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/SufC83D5StSKJN6OM8kBwA"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/wGm56Wg7QBOnEVnrEAZYEQ"
+    ]
+  },
+  "http://rdfh.ch/0119/YO2Mc3YYQ5ymR8tEC8xcJg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/YO2Mc3YYQ5ymR8tEC8xcJge",
+    "title": "Sottie des Béguins ",
+    "language_id": "français",
+    "qualifier_id": [
+      "sottie"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/6T6T_zpWT-G5rJWZjelj-Q"
+    ],
+    "manuscript_id": [
+      "http://rdfh.ch/0119/co31KA_7Rfq9xjiUzRX_xA"
+    ]
+  },
+  "http://rdfh.ch/0119/n9jXh3Q4TOyl48uBwg03uQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/n9jXh3Q4TOyl48uBwg03uQO",
+    "title": "Désir ardent (Vaud)"
+  },
+  "http://rdfh.ch/0119/hYmTPjQkQRSPf6-Jc_F0Mg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/hYmTPjQkQRSPf6=Jc_F0Mgm",
+    "title": "Ami Porral, [Mystère de l'invention de la sainte croix]",
+    "language_id": "français",
+    "qualifier_id": [
+      "mystère"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/6T6T_zpWT-G5rJWZjelj-Q"
+    ],
+    "manuscript_id": [
+      "http://rdfh.ch/0119/6vYXDYmQRiS4Tr5y2duprg"
+    ]
+  },
+  "http://rdfh.ch/0119/YfxDEK6ZQ4WlsnMwjRsqsg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/YfxDEK6ZQ4WlsnMwjRsqsgw",
+    "title": "Simon Goulart, Pastorale sur l'alliance perpétuelle ",
+    "language_id": "français",
+    "qualifier_id": [
+      "pastorale"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/gNFa8M6xSyeemu5C4AmTJQ"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/d0eWSO9WScKgq-yI_vdTaA"
+    ]
+  },
+  "http://rdfh.ch/0119/393s3cKDTjy8T-xg-cHdyA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/393s3cKDTjy8T=xg=cHdyAZ",
+    "title": "Joseph Du Chesne, L'Ombre de Garnier Stoffacher",
+    "language_id": "français",
+    "qualifier_id": [
+      "tragi-comédie"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/GXLc-ipsSsCD1o205r7gfA"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/AgDUdvlxTLKqu1s7GmAtGA"
+    ]
+  },
+  "http://rdfh.ch/0119/ctjwoa9DTBqionEOgkECKg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/ctjwoa9DTBqionEOgkECKgN",
+    "title": "[L’histoire de Daniel et de son fils] ",
+    "qualifier_id": [
+      "moralité"
+    ]
+  },
+  "http://rdfh.ch/0119/bklNLzrfT-ak_CHmHYCJpA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/bklNLzrfT=ak_CHmHYCJpAX",
+    "title": "[Le mariage de Sara]"
+  },
+  "http://rdfh.ch/0119/2J4S7DCPSUSLPZZqKnRj3Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/2J4S7DCPSUSLPZZqKnRj3Q9",
+    "title": "Robert le Diable (Genève)",
+    "language_id": "français",
+    "qualifier_id": [
+      "miracle",
+      "mystère"
+    ]
+  },
+  "http://rdfh.ch/0119/5Dr8O2zNRguI7xk4bHlCsQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/5Dr8O2zNRguI7xk4bHlCsQn",
+    "title": "miracle de saint Paul (Villeneuve)"
+  },
+  "http://rdfh.ch/0119/ppXUGDBFQ4yQhwO7ooUMMQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/ppXUGDBFQ4yQhwO7ooUMMQE",
+    "title": "Poesie de l'alliance perpetuelle entre deux nobles et chrestiennes villes franches, Berne et Geneve",
+    "language_id": "français"
+  },
+  "http://rdfh.ch/0119/sO-qvkVlTGq-yaNeFZXxBw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/sO=qvkVlTGq=yaNeFZXxBwj",
+    "title": "miracle(s) de saint Nicolas (Payerne)",
+    "qualifier_id": [
+      "miracle"
+    ]
+  },
+  "http://rdfh.ch/0119/YIzLzlfmQn26KcpCYzHvRA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/YIzLzlfmQn26KcpCYzHvRAQ",
+    "title": "Thomas Kirchmeyer, Mercator",
+    "language_id": "latin",
+    "qualifier_id": [
+      "moralité"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/ICfLWaMoTTuMConhwVeKNA"
+    ]
+  },
+  "http://rdfh.ch/0119/6OAiffHHRCG_BWMbhLfIuA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/6OAiffHHRCG_BWMbhLfIuAW",
+    "title": "[La prophétie de Jérémie et la destruction de Jérusalem]",
+    "language_id": "français"
+  },
+  "http://rdfh.ch/0119/f6jbhVOCRpiMscfGXFthbA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/f6jbhVOCRpiMscfGXFthbAG",
+    "title": "Sottie du Monde ",
+    "language_id": "français",
+    "qualifier_id": [
+      "sottie"
+    ],
+    "manuscript_id": [
+      "http://rdfh.ch/0119/v_FE8eW1S6ucxnuS4qEzgg"
+    ]
+  },
+  "http://rdfh.ch/0119/dkz9zPzoSuOcE0F-J1FWVw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/dkz9zPzoSuOcE0F=J1FWVwq",
+    "title": "mystère de saint Etienne (Moudon)"
+  },
+  "http://rdfh.ch/0119/qZ-e28CgTIeMgoMr9VJA9w": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/qZ=e28CgTIeMgoMr9VJA9wG",
+    "title": "Loz poure commung (Moudon)"
+  },
+  "http://rdfh.ch/0119/2Jd6FLSfQ_qjYh31lIi_zw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/2Jd6FLSfQ_qjYh31lIi_zwN",
+    "title": "[Les AAA liez] ",
+    "language_id": "français",
+    "qualifier_id": [
+      "moralité"
+    ]
+  },
+  "http://rdfh.ch/0119/xolFlM_cQBSlt8l-jPUa4g": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/xolFlM_cQBSlt8l=jPUa4gL",
+    "title": "La Comédie du pape malade",
+    "language_id": "français",
+    "qualifier_id": [
+      "comédie"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/1jkpJCSeSUmaUuslvKB1-A"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/Yfkf3HXcTRuXZqnFOJMq_w"
+    ]
+  },
+  "http://rdfh.ch/0119/saMHlurwQvqe9FOYv72aIw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/saMHlurwQvqe9FOYv72aIw=",
+    "title": "Jeux de Marie-Madeleine (Yverdon)",
+    "qualifier_id": [
+      "mystère"
+    ]
+  },
+  "http://rdfh.ch/0119/6YDNoebnS2yX9jqNHx7FUw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/6YDNoebnS2yX9jqNHx7FUw7",
+    "title": "Miroir de Justice",
+    "qualifier_id": [
+      "moralité"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/5cFcRIa3SU-IZfIGSz3CCg"
+    ]
+  },
+  "http://rdfh.ch/0119/m6k6CtREQ9O7RqIHhV4DDA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/m6k6CtREQ9O7RqIHhV4DDA8",
+    "title": "La vérité cachée",
+    "language_id": "français",
+    "qualifier_id": [
+      "moralité"
+    ],
+    "author_id": [
+      "http://rdfh.ch/0119/YRJgA5BcSI6iW_cmhvGW4A"
+    ],
+    "publication_id": [
+      "http://rdfh.ch/0119/kRG6tbiXSre7h6GB36eTrQ"
+    ]
+  }
+}

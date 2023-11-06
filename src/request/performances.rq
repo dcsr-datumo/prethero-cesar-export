@@ -1,0 +1,15 @@
+PREFIX knora: <http://api.knora.org/ontology/knora-api/v2#>
+PREFIX prethero: <http://api.dasch.swiss/ontology/0119/prethero/v2#>
+CONSTRUCT {
+    ?performance knora:isMainResource true .
+
+    ?performance prethero:isPerformanceOf ?thingPerformed .
+
+} WHERE {
+    ?performance a knora:Resource .
+    ?performance a prethero:Performance .
+
+    OPTIONAL {
+        ?performance prethero:isPerformanceOf ?thingPerformed .
+    }
+}

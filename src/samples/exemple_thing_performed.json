@@ -1,0 +1,231 @@
+{
+  "knora-api:arkUrl": {
+    "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw",
+    "@type": "xsd:anyURI"
+  },
+  "rdfs:label": "miracle de sainte Suzanne (Savoie)",
+  "knora-api:versionArkUrl": {
+    "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw.20230628T151814658372634Z",
+    "@type": "xsd:anyURI"
+  },
+  "knora-api:userHasPermission": "V",
+  "prethero:resourceHasContributor": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/XwyPtF_7Tr2FRY8p1iDZ5gc",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "XwyPtF_7Tr2FRY8p1iDZ5g",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:ListValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/XwyPtF_7Tr2FRY8p1iDZ5g",
+    "knora-api:listValueAsListNode": {
+      "@id": "http://rdfh.ch/lists/0119/ypHMYmVDQbq6zqYFbEVTfg"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/XwyPtF_7Tr2FRY8p1iDZ5gc.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    }
+  },
+  "knora-api:creationDate": {
+    "@value": "2023-06-28T15:18:14.658372634Z",
+    "@type": "xsd:dateTimeStamp"
+  },
+  "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+  "prethero:thingPerformedHasPerformanceType": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/H9lIreMGQFS92FDqQ9dbEAt",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "H9lIreMGQFS92FDqQ9dbEA",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:ListValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/H9lIreMGQFS92FDqQ9dbEA",
+    "knora-api:listValueAsListNode": {
+      "@id": "http://rdfh.ch/lists/0119/C7fF2UnnS_GbWRrLlPUclg"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/H9lIreMGQFS92FDqQ9dbEAt.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    }
+  },
+  "@type": "prethero:WorkPlayed",
+  "prethero:thingPerformedHasSourceValue": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/_pJxDYgfTp6i7x_GH9rQLQR",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/_pJxDYgfTp6i7x_GH9rQLQR.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "_pJxDYgfTp6i7x_GH9rQLQ",
+    "knora-api:linkValueHasTarget": {
+      "knora-api:lastModificationDate": {
+        "@value": "2023-04-12T08:22:17.430469855Z",
+        "@type": "xsd:dateTimeStamp"
+      },
+      "knora-api:arkUrl": {
+        "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/MxYLj3UNQeWagGXZz_7iIgE",
+        "@type": "xsd:anyURI"
+      },
+      "rdfs:label": "Chocheyras, Le théâtre religieux en Savoie au XVIe siècle, 1971",
+      "knora-api:versionArkUrl": {
+        "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/MxYLj3UNQeWagGXZz_7iIgE.20230412T082217430469855Z",
+        "@type": "xsd:anyURI"
+      },
+      "knora-api:attachedToProject": {
+        "@id": "http://rdfh.ch/projects/0119"
+      },
+      "knora-api:userHasPermission": "V",
+      "knora-api:creationDate": {
+        "@value": "2022-10-07T14:31:59.955387527Z",
+        "@type": "xsd:dateTimeStamp"
+      },
+      "knora-api:attachedToUser": {
+        "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+      },
+      "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+      "@type": "prethero:Book",
+      "@id": "http://rdfh.ch/0119/MxYLj3UNQeWagGXZz_7iIg"
+    },
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:LinkValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/_pJxDYgfTp6i7x_GH9rQLQ"
+  },
+  "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ",
+  "knora-api:attachedToProject": {
+    "@id": "http://rdfh.ch/projects/0119"
+  },
+  "prethero:hasLanguage": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/iIfuo5hYSGebSuYm_19vxA3",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "iIfuo5hYSGebSuYm_19vxA",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:ListValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/iIfuo5hYSGebSuYm_19vxA",
+    "knora-api:listValueAsListNode": {
+      "@id": "http://rdfh.ch/lists/0119/Qjs18-xrSXW_ygis2yR1iA"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/iIfuo5hYSGebSuYm_19vxA3.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    }
+  },
+  "prethero:workHasCommonTitle": {
+    "knora-api:valueAsString": "miracle de sainte Suzanne",
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/jzgKoGGQRFOFVzH3VtNCmgY",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/jzgKoGGQRFOFVzH3VtNCmgY.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "jzgKoGGQRFOFVzH3VtNCmg",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:TextValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/jzgKoGGQRFOFVzH3VtNCmg"
+  },
+  "prethero:thingPerformedHasTopic": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/N118BZphTQC_7x0oTQhNkwE",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "N118BZphTQC_7x0oTQhNkw",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:ListValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/N118BZphTQC_7x0oTQhNkw",
+    "knora-api:listValueAsListNode": {
+      "@id": "http://rdfh.ch/lists/0119/fNLgcoynRRKWyMN7QC-k2w"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/N118BZphTQC_7x0oTQhNkwE.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    }
+  },
+  "prethero:thingPerformedHasType": {
+    "knora-api:arkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/HiC9anItSAmjRsP8TtLozAE",
+      "@type": "xsd:anyURI"
+    },
+    "knora-api:userHasPermission": "V",
+    "knora-api:valueCreationDate": {
+      "@value": "2023-06-28T15:18:14.658372634Z",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "knora-api:attachedToUser": {
+      "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+    },
+    "knora-api:valueHasUUID": "HiC9anItSAmjRsP8TtLozA",
+    "knora-api:hasPermissions": "CR knora-admin:ProjectAdmin|D knora-admin:Creator|M knora-admin:ProjectMember|V knora-admin:KnownUser,knora-admin:UnknownUser",
+    "@type": "knora-api:ListValue",
+    "@id": "http://rdfh.ch/0119/PJz5T14NTrKdj5J6b_kXZQ/values/HiC9anItSAmjRsP8TtLozA",
+    "knora-api:listValueAsListNode": {
+      "@id": "http://rdfh.ch/lists/0119/WhNyYBUDS12A8RKo5Z2-vQ"
+    },
+    "knora-api:versionArkUrl": {
+      "@value": "https://ark.dasch.swiss/ark:/72163/1/0119/PJz5T14NTrKdj5J6b_kXZQw/HiC9anItSAmjRsP8TtLozAE.20230628T151814658372634Z",
+      "@type": "xsd:anyURI"
+    }
+  },
+  "knora-api:attachedToUser": {
+    "@id": "http://rdfh.ch/users/reRW0lwYQ2uyChJi6nL7UQ"
+  },
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "knora-api": "http://api.knora.org/ontology/knora-api/v2#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "prethero": "http://api.dasch.swiss/ontology/0119/prethero/v2#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}

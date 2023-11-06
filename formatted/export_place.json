@@ -1,0 +1,459 @@
+{
+  "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/ZrDtv7v5RIGM70=DUe6jqgq",
+    "name": "Genève",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660646"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/xVgr-ugUTZuMz9wRO8k_Ig"
+  },
+  "http://rdfh.ch/0119/Gj05CwM6T7yIYQ5BeoXDOA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/Gj05CwM6T7yIYQ5BeoXDOAt",
+    "name": "Orbe",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659289"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/JvPcZzSQT_uWf1_w_GWG2Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/JvPcZzSQT_uWf1_w_GWG2Qp",
+    "name": "Vevey",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658145"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/s-Fpg6ykS_qFWwTg4UniPQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/s=Fpg6ykS_qFWwTg4UniPQi",
+    "name": "Romont",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658982"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/fYrF0ejyTtyHM9AE72stcg"
+  },
+  "http://rdfh.ch/0119/GVJjdjSKQLWPO8q4duEMgw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/GVJjdjSKQLWPO8q4duEMgwV",
+    "name": "Moudon",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659569"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/kZOHhiyJQSycbyPsXg9hzw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/kZOHhiyJQSycbyPsXg9hzwa",
+    "name": "Estavayer",
+    "authorities": {
+      "geonames": "https://www.geonames.org/11611715"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/fYrF0ejyTtyHM9AE72stcg"
+  },
+  "http://rdfh.ch/0119/N01sDqKPTHmyem2XQyY9UA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/N01sDqKPTHmyem2XQyY9UAg",
+    "name": "Yverdon",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2657941"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/19V-epTERGGPVWjg_LvEFQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/19V=epTERGGPVWjg_LvEFQX",
+    "name": "Fribourg",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660718"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/fYrF0ejyTtyHM9AE72stcg"
+  },
+  "http://rdfh.ch/0119/TxEll4aITqORekxRHiB1VQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/TxEll4aITqORekxRHiB1VQh",
+    "name": "Grandson",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660529"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/UnWjUPbbSoSithYfGGL9Pw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/UnWjUPbbSoSithYfGGL9Pw8",
+    "name": "Hôtel de ville",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/B1cXnm2fRiq037h6Tlk-7Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/B1cXnm2fRiq037h6Tlk=7Q7",
+    "name": "Lausanne",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659994"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/8v3Nxf8oRNCCrDqk0qzn6g": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/8v3Nxf8oRNCCrDqk0qzn6gV",
+    "name": "Place de la Palud",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/B1cXnm2fRiq037h6Tlk-7Q"
+  },
+  "http://rdfh.ch/0119/Vyf7PxBMRvCWTiOLuPidfA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/Vyf7PxBMRvCWTiOLuPidfAF",
+    "name": "Gruyères",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660463"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/fYrF0ejyTtyHM9AE72stcg"
+  },
+  "http://rdfh.ch/0119/grRCfNYpQ1mO3_KrMHxK3Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/grRCfNYpQ1mO3_KrMHxK3Qx",
+    "name": "pré de Rive",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/K0bCp-otTn6GsrEn5oB8dA"
+  },
+  "http://rdfh.ch/0119/0OBcwkOYQ8qu2d9mYgpAFg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/0OBcwkOYQ8qu2d9mYgpAFgG",
+    "name": "La Rochelle",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3006787"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/wTDjpuyrRzeemRnVxYu7zg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/wTDjpuyrRzeemRnVxYu7zgu",
+    "name": "Aubonne",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2661687"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/MMkObwpsRGeLTOdVXMAIMA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/MMkObwpsRGeLTOdVXMAIMAq",
+    "name": "Cathédrale de Lausanne ",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/B1cXnm2fRiq037h6Tlk-7Q"
+  },
+  "http://rdfh.ch/0119/OoTJtDNQSjmvYXBknzxLuw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/OoTJtDNQSjmvYXBknzxLuwi",
+    "name": "Académie de Lausanne ",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/B1cXnm2fRiq037h6Tlk-7Q"
+  },
+  "http://rdfh.ch/0119/GNPKa5hbQyCNkf2TcSDzmQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/GNPKa5hbQyCNkf2TcSDzmQF",
+    "name": "Saint-Jean-de-Maurienne",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2979303"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/kPR2ywM5T06SVMoB-iE8vw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/kPR2ywM5T06SVMoB=iE8vwu",
+    "name": "Nyon",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659422"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/LPXVnwBDQBqPKs2yX13A-A": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/LPXVnwBDQBqPKs2yX13A=AQ",
+    "name": "Morges",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659587"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/7cQEhwKSTe6CCSN9fJS_lg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/7cQEhwKSTe6CCSN9fJS_lgI",
+    "name": "Lutry",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659819"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/webp0RvMQi-gPDPskUP4HA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/webp0RvMQi=gPDPskUP4HA0",
+    "name": "Payerne",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659243"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/UA6rvMj2SCCrZ7cm1hQdfQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/UA6rvMj2SCCrZ7cm1hQdfQ_",
+    "name": "Place du Molard (Genève)",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/kqeA4jHcSFq1sIUbGTFSfw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/kqeA4jHcSFq1sIUbGTFSfwx",
+    "name": "Place du Bourg-de-Four",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/K0bCp-otTn6GsrEn5oB8dA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/K0bCp=otTn6GsrEn5oB8dAy",
+    "name": "Collège de Genève",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/s1hCO3a6Tb-APPvoYM6dRQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/s1hCO3a6Tb=APPvoYM6dRQn",
+    "name": "Romainmôtier",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658988"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/RBlj6cYNR4qXozyp28qrlQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/RBlj6cYNR4qXozyp28qrlQ8",
+    "name": "Neuchâtel ",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659496"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/e8M7Fe2QT-qWE-JvtKFjPg"
+  },
+  "http://rdfh.ch/0119/mgXl58MiTUSXKQQq0o__Zw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/mgXl58MiTUSXKQQq0o__ZwR",
+    "name": "Villeneuve",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658123"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/tsBbhO0GQt6Ib6nJajXWhA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/tsBbhO0GQt6Ib6nJajXWhA3",
+    "name": "Baulmes",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2661594"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/4pAmkX78SUWSYlyj7WC3uA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/4pAmkX78SUWSYlyj7WC3uAE",
+    "name": "Grenoble",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3014728"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/fNkuhQk-Ra281UIjHbT7gg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/fNkuhQk=Ra281UIjHbT7ggQ",
+    "name": "Lignerolle",
+    "authorities": {
+      "geonames": "https://www.geonames.org/7286351"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg"
+  },
+  "http://rdfh.ch/0119/EyMHj8H5T0S2Z7Ru9ns0eA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/EyMHj8H5T0S2Z7Ru9ns0eAM",
+    "name": "Porrentruy",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659171"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/g5FI7sPVQvSz9pjtyVKNRA"
+  },
+  "http://rdfh.ch/0119/r-j_E80iSgK7c6lmR1nRgA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/r=j_E80iSgK7c6lmR1nRgAH",
+    "name": "Chambéry",
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/D5a5KrJuSm-H5IwJOx7OPA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/D5a5KrJuSm=H5IwJOx7OPAX",
+    "name": "Château des Ducs de Savoie ",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/r-j_E80iSgK7c6lmR1nRgA"
+  },
+  "http://rdfh.ch/0119/W62D0L_sTR2-Dg2Y59s55w": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/W62D0L_sTR2=Dg2Y59s55wP",
+    "name": "Couvent des Cordeliers de Rive",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/aK9F8ubKTVWT-DfVGBKUxQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/aK9F8ubKTVWT=DfVGBKUxQd",
+    "name": "grande salle du collège",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/K0bCp-otTn6GsrEn5oB8dA"
+  },
+  "http://rdfh.ch/0119/XjGd8rr0QLy6YgaK3L5dUw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/XjGd8rr0QLy6YgaK3L5dUwY",
+    "name": "cimetière de la Cathédrale",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/B1cXnm2fRiq037h6Tlk-7Q"
+  },
+  "http://rdfh.ch/0119/IWlrN2zIRhKkKCGKggeSaw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/IWlrN2zIRhKkKCGKggeSawm",
+    "name": "Place de la Fusterie",
+    "location_type_id": "lieu de représentation",
+    "parent_id": "http://rdfh.ch/0119/ZrDtv7v5RIGM70-DUe6jqg"
+  },
+  "http://rdfh.ch/0119/1V1HbDq7SZuGBmg0_BXiiQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/1V1HbDq7SZuGBmg0_BXiiQI",
+    "name": "Mouvaux",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2991302"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/Cxf4yJLzT1aTjZuTg9Raeg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/Cxf4yJLzT1aTjZuTg9Raegf",
+    "name": "Canton de Vaud",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658182"
+    },
+    "location_type_id": "canton ou région",
+    "parent_id": "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ"
+  },
+  "http://rdfh.ch/0119/xVgr-ugUTZuMz9wRO8k_Ig": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/xVgr=ugUTZuMz9wRO8k_Igb",
+    "name": "Canton de Genève",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660645"
+    },
+    "location_type_id": "canton ou région",
+    "parent_id": "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ"
+  },
+  "http://rdfh.ch/0119/fYrF0ejyTtyHM9AE72stcg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/fYrF0ejyTtyHM9AE72stcgV",
+    "name": "Canton de Fribourg",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660717"
+    },
+    "location_type_id": "canton ou région",
+    "parent_id": "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ"
+  },
+  "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/HUke0aWmQ=WhFkI=_BJgKQW",
+    "name": "France",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3017382"
+    },
+    "location_type_id": "pays"
+  },
+  "http://rdfh.ch/0119/e8M7Fe2QT-qWE-JvtKFjPg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/e8M7Fe2QT=qWE=JvtKFjPgo",
+    "name": "Canton de Neuchâtel ",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2659495"
+    },
+    "location_type_id": "canton ou région",
+    "parent_id": "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ"
+  },
+  "http://rdfh.ch/0119/g5FI7sPVQvSz9pjtyVKNRA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/g5FI7sPVQvSz9pjtyVKNRAI",
+    "name": "Canton du Jura",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2660207"
+    },
+    "location_type_id": "canton ou région",
+    "parent_id": "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ"
+  },
+  "http://rdfh.ch/0119/iB83KJu1R7Wf8hUPmu2PHQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/iB83KJu1R7Wf8hUPmu2PHQ0",
+    "name": "Suisse",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2658434"
+    },
+    "location_type_id": "pays"
+  },
+  "http://rdfh.ch/0119/VQaUV9G5TeK5VjHaw5lPFA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/VQaUV9G5TeK5VjHaw5lPFAP",
+    "name": "Dijon",
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/NuVImyo4TTCmdot6o4dpgQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/NuVImyo4TTCmdot6o4dpgQw",
+    "name": "Vézelay",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2969478"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/c7Nciz9mT0mu4dEdnJcO9Q": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/c7Nciz9mT0mu4dEdnJcO9Qd",
+    "name": "Lectoure",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3004381"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/_0dWuED9Sp2djvheV7CzCQ": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/_0dWuED9Sp2djvheV7CzCQK",
+    "name": "Morvillers-Saint-Saturnin",
+    "authorities": {
+      "geonames": "https://www.geonames.org/6444638"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/jNY_MdqFQh-xboE1LbyYsA": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/jNY_MdqFQh=xboE1LbyYsAP",
+    "name": "Senlis",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2975088"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/BRRo6aN5RByflkvSnKv_mw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/BRRo6aN5RByflkvSnKv_mwY",
+    "name": "Issoudun",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3012655"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/oPqO8ReSRtKcK8d8JMn_Bg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/oPqO8ReSRtKcK8d8JMn_BgV",
+    "name": "Paris",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2988507"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/OcHDZ7rlTQCrKLA4v29KMw": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/OcHDZ7rlTQCrKLA4v29KMw6",
+    "name": "Arras",
+    "authorities": {
+      "geonames": "https://www.geonames.org/3036784"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  },
+  "http://rdfh.ch/0119/BtLfCuJsT6-Th9VHyEb2vg": {
+    "sources": "https://ark.dasch.swiss/ark:/72163/1/0119/BtLfCuJsT6=Th9VHyEb2vgG",
+    "name": "Lyon",
+    "authorities": {
+      "geonames": "https://www.geonames.org/2996944"
+    },
+    "location_type_id": "localité",
+    "parent_id": "http://rdfh.ch/0119/HUke0aWmQ-WhFkI-_BJgKQ"
+  }
+}
